@@ -2,7 +2,7 @@
 
 ### Languages and Tools
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![VueJs](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=vuejs)
+![VueJs](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=vuedotjs)
 ![C](https://img.shields.io/badge/c-090909?style=for-the-badge&logo=c)
 ![CSS3](https://img.shields.io/badge/css3-090909?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/html5-090909?style=for-the-badge&logo=html5)
