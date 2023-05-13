@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Roman+Sviridonov)](https://git.io/typing-svg)
-
+<img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width=400 align="right">
 ### Languages and Tools
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=vuedotjs)
@@ -15,7 +15,6 @@
 ### My Favourite Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width=400 align="right">
 
 <h3>Tools I use:</h3>
 
