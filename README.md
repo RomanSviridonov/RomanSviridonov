@@ -1,3 +1,4 @@
+<img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Roman+Sviridonov)](https://git.io/typing-svg)
 <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width=400 align="right">
 ### Languages and Tools
