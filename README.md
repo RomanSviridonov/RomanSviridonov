@@ -23,4 +23,4 @@
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://static.wixstatic.com/media/6fe637_11364b10887141b8afadb4d94062ba19~mv2.gif" width=800>
+<img src="https://static.wixstatic.com/media/6fe637_11364b10887141b8afadb4d94062ba19~mv2.gif" width=900>
