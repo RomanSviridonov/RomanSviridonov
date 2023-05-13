@@ -3,3 +3,6 @@
 ### Languages and Tools
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=vuejs)
+
+###Most Used Languages
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanSviridonov)](https://github.com/anuraghazra/github-readme-stats)
