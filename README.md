@@ -1,3 +1,6 @@
+<div>
+<img src="https://static.wixstatic.com/media/6fe637_11364b10887141b8afadb4d94062ba19~mv2.gif">
+  </div>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Roman+Sviridonov)](https://git.io/typing-svg)
 <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width=400 align="right">
 ### Languages and Tools
