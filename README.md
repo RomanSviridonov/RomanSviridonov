@@ -15,7 +15,7 @@
 ### My Favourite Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width=400 style="display: flex; float:right;">
+<img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width=400 align="right">
 
 <h3>Tools I use:</h3>
 
