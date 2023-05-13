@@ -15,6 +15,8 @@
 ### My Favourite Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+
 <h3>Tools I use:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/WebStorm-090909?style=for-the-badge&logo=webstorm&logoColor=white)
